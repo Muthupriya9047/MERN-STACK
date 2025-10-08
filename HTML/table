@@ -1,0 +1,29 @@
+<html>
+<body> 
+  <table border="1" cellpadding="12" bgcolor="sky blue">
+    <tr>
+        <th>S.NO</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td>priya</td>
+        <td>banu</td>
+        <td>sathya</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>priya@gmail.com</td>
+        <td>banu@gmail.com</td>
+        <td>sathya@gmail.com</td>
+    </tr>
+    <tfooter> 
+        <tr> 
+            <th colspan="4">copyright & copy 2025</th>
+        </tr>
+    </tfooter>
+    </table>
+    </body>
+</html>
